@@ -1,4 +1,4 @@
-// script.js 
+// generator.js 
 function generate() { 
 	let dictionary = ""; 
 	if (document.getElementById("lowercaseCb").checked) { 
